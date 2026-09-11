@@ -1,1 +1,0 @@
-# UnicomTIC_2026_project_bootcamp
