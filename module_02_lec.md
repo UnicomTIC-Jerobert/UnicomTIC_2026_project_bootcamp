@@ -81,4 +81,3 @@ If a user hits a protected endpoint without a valid JWT token, the Dependency in
 *(We will implement this fully in the Lab Activity).*
 
 ***
-***
