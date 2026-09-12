@@ -1,10 +1,12 @@
-Here is the continuation of your teaching materials. 
-
-This document contains the **Solution for the Onboarding Lab** and the **Comprehensive 2-Part Leave Management Lab (Console to UI)**. You can append this directly to your `Module-1-python-streamlit.md` file in your repository.
-
-***
-
 # 🧪 Lab Solutions & Advanced Activities
+
+### 📝 Lab Activity (For Students)
+**Task:** Build the "Employee Onboarding Checklist UI".
+1. Create a Python Class `NewHire` with properties: `name`, `role`, and a dictionary `checklist` containing tasks like `{"Laptop": False, "ID Card": False}`.
+2. Use Streamlit to display a nice dashboard for the New Hire.
+3. Use `st.checkbox()` elements to represent the checklist.
+4. When all checkboxes are ticked, trigger a pop-up dialog (`@st.dialog`) congratulating the employee for completing onboarding!
+
 
 ## 1. Solution: Employee Onboarding Checklist UI
 > **Mentor Note:** When building interactive UIs in Streamlit, the script reruns from top to bottom every time a user clicks a button or checkbox. To prevent our `NewHire` object from being recreated every time, we must store it in `st.session_state`. Explain this concept to the students as it bridges standard Python OOP with web states.
