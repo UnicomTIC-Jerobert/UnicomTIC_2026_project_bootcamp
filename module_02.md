@@ -1,9 +1,3 @@
-Here is the complete **Mentor's Teaching Kit for Module 2**. 
-
-Just like the first one, you can copy this block, save it as `Module-2-FastAPI-Backend.md`, and push it to your GitHub repository. 
-
-***
-
 # Module 2: Enterprise Backend with FastAPI 
 
 **Duration:** 4 Hours (1.5 hrs Lecture/Live Code + 2.5 hrs Lab)  
