@@ -289,10 +289,3 @@ with st.chat_message("manager", avatar="🧑‍💼"):
 ```
 
 ---
-
-### 📝 Lab Activity (For Students)
-**Task:** Build the "Employee Onboarding Checklist UI".
-1. Create a Python Class `NewHire` with properties: `name`, `role`, and a dictionary `checklist` containing tasks like `{"Laptop": False, "ID Card": False}`.
-2. Use Streamlit to display a nice dashboard for the New Hire.
-3. Use `st.checkbox()` elements to represent the checklist.
-4. When all checkboxes are ticked, trigger a pop-up dialog (`@st.dialog`) congratulating the employee for completing onboarding!
