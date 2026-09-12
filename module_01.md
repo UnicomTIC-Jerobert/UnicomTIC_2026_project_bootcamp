@@ -1,9 +1,3 @@
-Here is the complete **Mentor's Teaching Kit for Module 1**. 
-
-It is formatted in clean, structured Markdown. You can copy this entire block, save it as `Module-1-OOP-and-Streamlit.md`, push it to your GitHub repository, and project it directly onto the screen as your teaching material!
-
-***
-
 # Module 1: Python OOP & Rapid UI Development with Streamlit
 
 **Duration:** 4 Hours (1.5 hrs Lecture/Live Code + 2.5 hrs Lab)  
